@@ -1,5 +1,5 @@
 *~
-
+.*
 Debug/
 ipch/
 Release/
@@ -11,3 +11,4 @@ obj/
 *.o
 *.opensdf
 config
+build
